@@ -7,7 +7,7 @@ This website is a powerful, yet minimalist portfolio for designers and developer
 
 Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
 
-[//]: # (ProductHunt link here)
+<a href="https://www.producthunt.com/posts/dev-portfolio?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dev-portfolio" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323609&theme=dark" alt="Dev Portfolio - Powerful, yet minimalist portfolio for developers. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Table of contents
 - [All About Ishaan](#all-about-ishaan)
